@@ -8,7 +8,7 @@
 
 🎓 Cursando [ [Ciências da Computação](https://www.fiap.com.br/graduacao/bacharelado/ciencia-da-computacao-data-science-ia-platform-engineering/) | Bacharelado ]
 
-👩‍💻 Tenho experiecia com [Engenharia e Suporte Técnico | Projetos de Desenvolvimento | Testes Automatizados] - Projetos em que participei: [Gooroo Crédito](https://gooroocredito.com.br/) / [Santander Consignado](https://www.consignadosantander.com.br/#/)
+👩‍💻 Tenho experiecia com [Engenharia e Suporte Técnico | Projetos de Desenvolvimento | Testes Automatizados] - Alguns dos projetos em que participei: [Gooroo Crédito](https://gooroocredito.com.br/) / [Santander Consignado](https://www.consignadosantander.com.br/#/)
 
 <br>
 
