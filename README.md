@@ -12,8 +12,6 @@
 
 <br>
 
-
-
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
