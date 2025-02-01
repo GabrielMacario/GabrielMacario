@@ -4,7 +4,7 @@
 
 💻 Eu sou Qa e também desenvolvedor [ Back-End | Front-End | Fullstack ]
 
-🔎 Também sou curioso sobre [Cloud | IA | Mobile | Data Analysis ]
+🔎 Também sou curioso sobre [Cloud | IA | Mobile | Data Analysis ] 
 
 🎓 Cursando [ [Ciências da Computação](https://www.fiap.com.br/graduacao/bacharelado/ciencia-da-computacao-data-science-ia-platform-engineering/) | Bacharelado ]
 
