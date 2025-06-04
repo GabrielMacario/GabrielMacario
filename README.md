@@ -1,6 +1,6 @@
 ### Oie! Sou o Gabriel 👋
 
-### Sobre mim 
+### Sobre mim
 
 💻 Eu sou Qa e também desenvolvedor [ Back-End | Front-End | Fullstack ]
 
