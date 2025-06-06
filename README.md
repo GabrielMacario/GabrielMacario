@@ -1,4 +1,4 @@
-### Oie! Sou o Gabriel 👋 
+### Oie! Sou o Gabriel 👋  
 
 ### Sobre mim
 
